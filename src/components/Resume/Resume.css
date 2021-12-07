@@ -1,0 +1,20 @@
+.container{
+    text-align: left;
+}
+.hi{
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.about-description{
+    font-size: large;
+    width: 900px;
+    margin-bottom: 50px;
+}
+.resume-btn{
+    background-color: #222D0B;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 20px;
+    font-weight: bold;
+    text-decoration: none;
+}
