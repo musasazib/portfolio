@@ -30,11 +30,11 @@ const Header = () => {
                 <div className="container">
                     <div className="row profile-padding">
                         <div className="col-12 col-md-4">
-                            <img src="https://i.ibb.co/V2Vrmzt/profile.png" alt="" className="img-fluid rounded img-size" />
+                            <img src="https://i.ibb.co/9NBVjky/68.jpg" alt="" className="img-fluid rounded img-size" />
                         </div>
                         <div className="col-12 col-md-8">
                             <div className="profile-details">
-                                <h1>Abu Saleh Md. Musa Sazib</h1>
+                                <h1 className="pt-3">Abu Saleh Md. Musa Sazib</h1>
                                 <h3>I'm A Self Believer</h3>
                                 <br />
                                 <h5>Age: 24</h5>
