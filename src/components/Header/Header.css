@@ -1,0 +1,15 @@
+.img-size{
+    width: 320px;
+    height: 350px;
+}
+.profile-details{
+    text-align: left;
+    color: white;
+}
+.profile-padding{
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+.background{
+    background-image: url(https://i.ibb.co/0p7mnW1/518097-background-hd.jpg);
+}
